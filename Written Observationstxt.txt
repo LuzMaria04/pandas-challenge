@@ -1,0 +1,5 @@
+Some observations were as follow:
+
+- The top 5 schools are all charter schools while the bottom 5 all district schools.
+- Average math and reading scores stay consistent across grade level when grouped by school. 
+- Charter schools have higher average scores and also higher percentage of students passing in both subjects.
